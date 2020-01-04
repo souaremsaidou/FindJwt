@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
 
-project(recipe-02 LANGUAGES CXX)
+project(TryJwt LANGUAGES CXX)
 
 set(CMAKE_VERBOSE_MAKEFILE ON)
 
